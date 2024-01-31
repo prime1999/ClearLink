@@ -1,4 +1,4 @@
-import FooterDownloadLink from "@/utils/FooterDOwnloadLink";
+import FooterDownloadLink from "@/utils/FooterDownloadLink";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
